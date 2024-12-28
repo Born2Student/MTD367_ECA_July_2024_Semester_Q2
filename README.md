@@ -1,4 +1,6 @@
-# MTD367_ECA_July_2024_Semester_Q2
+# MTD367 - iOS Application Development
+
+# MTD367 End-of-Course Assessment (ECA01) - July Semester 2024
 
 ## Prerequisites
 - macOS (specify minimum version)
