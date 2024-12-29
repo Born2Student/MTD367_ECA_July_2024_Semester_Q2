@@ -1,6 +1,20 @@
 # MTD367 - iOS Application Development
 
-# MTD367 End-of-Course Assessment (ECA01) - July Semester 2024
+# MTD367 End-of-Course Assessment (ECA01) - July Semester 2024 Question 2
+
+### Question 2
+
+You are an IOS APP developer working on an outdoor game APP. 
+
+Design and create a game to encourage office workers to go outdoors to do walking and running activity in Singapore. 
+
+This APP allows users to start an exploration from their current location, and travel to some random labels on the map to gain treasure points. 
+
+Treasure points can be used to exchange for different gifts from the gift store.
+
+![Screenshot 2024-12-29 at 7 16 03 PM](https://github.com/user-attachments/assets/b7b5dbfc-5399-401a-bb05-d348f4aac116)
+![Screenshot 2024-12-29 at 7 16 13 PM](https://github.com/user-attachments/assets/c21bfb3e-f6a9-4137-98b0-5a61ef593b4b)
+![Screenshot 2024-12-29 at 7 16 35 PM](https://github.com/user-attachments/assets/d03aafb7-2338-4d7a-80f9-423ae45a3d80)
 
 ## Prerequisites
 - macOS (specify minimum version)
